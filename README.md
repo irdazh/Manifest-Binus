@@ -7,3 +7,4 @@ Analisis data biodiversity untuk menentukan faktor-faktor apa saja yang memengar
 3. Run program dapat dilakukan dengan mendownload notebook, membukanya dengan google colab, jupyterlab, ataupun kaggle, lantas, ya di-run (?)
 4. Jangan lupa install library jika belum tersedia.
 5. Sila eksplor lebih dalam!
+6. [Link Interactive Notebook](https://www.kaggle.com/code/irdazh/ir-small-data/notebook)
